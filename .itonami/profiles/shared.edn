@@ -7,6 +7,6 @@
  :profile/id "actor-chigiri"
  :profile/default? true
  :bot/name "actor-chigiri"
- :bot/brief "etzhayyim/actor-chigiri の常駐 actor。charter に従って行動する。"
- :bot/context-refs [{:kind "repo" :target "etzhayyim/actor-chigiri"}]
+ :bot/brief "cloud-itonami/actor-chigiri の常駐 actor。charter に従って行動する。"
+ :bot/context-refs [{:kind "repo" :target "cloud-itonami/actor-chigiri"}]
  :bot/tools-requested []}
